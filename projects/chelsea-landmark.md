@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: Happy gamers
 category: Identity
 thumbnail: "/uploads/pexels-mart-production-7330165.jpg"
 categories:
